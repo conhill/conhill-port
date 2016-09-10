@@ -147,7 +147,7 @@ top: 110px;
   .layer-4 {
 top: 250px;
     z-index: 15;
-    background-image: url('../Portfolio-new1/img/side-mountains.png');
+    background-image: url('../../Portfolio-new1/img/side-mountains.png');
     background-size: 100% 310px;
     background-repeat: no-repeat;
   }
