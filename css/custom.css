@@ -125,14 +125,14 @@ top: 110px;
   .layer-1 {
     top: -20px;
     z-index: 5;
-    background-image: url('../Portfolio/img/sky.png');
+    background-image: url('Portfolio/img/sky.png');
     background-size: 100% 480px;
     background-repeat: no-repeat;
   }
   .layer-2 {
     top: 177px;
     z-index: 5;
-    background-image: url('../Portfolio/img/back-mountains.png');
+    background-image: url('/Portfolio/img/back-mountains.png');
     background-size: 100% 300px;
     background-repeat: no-repeat;
   }
